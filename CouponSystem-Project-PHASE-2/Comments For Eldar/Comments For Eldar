@@ -1,0 +1,16 @@
+Hello Eldar , 
+
+there is few comments for your information :
+
+   1.   I used in this project the interface : CommandLineRunner --> the work with this 
+        interface is in the package [ coupon.system.operations.after.system.boot ]. 
+   
+   2.   I used in this project several configuration files - 
+        I just wanted to learn how to work with several configuration properties files.  
+        folder [ src/main/resources ].
+        
+   3.   I used the MySQL server in this project.
+   
+   4.   finally I create a unique service for the 'DailyJob' instead of the @Transactional annotation
+        on the repository method.
+         
